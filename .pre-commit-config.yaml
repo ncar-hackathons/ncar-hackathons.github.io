@@ -9,8 +9,3 @@ repos:
         args: ["--maxkb=20000"]
       - id: check-yaml
       - id: double-quote-string-fixer
-
-  - repo: https://github.com/prettier/prettier
-    rev: 1.17.1
-    hooks:
-      - id: prettier
