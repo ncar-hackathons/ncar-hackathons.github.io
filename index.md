@@ -25,7 +25,8 @@ The format of this event will include instructional lectures as well as open-end
 
 ### Location
 
-All tutorials and hacking sessions are located at the <a href="https://goo.gl/maps/ikn4LE2VL5yDZMaX6">NCAR Mesa Laboratory</a>.
+
+All tutorials and hacking sessions are located at the <a href="https://goo.gl/maps/ikn4LE2VL5yDZMaX6">NCAR Mesa Laboratory - Main Seminar Room (primary)</a>.
 
 ### Pre-event preparation
 
