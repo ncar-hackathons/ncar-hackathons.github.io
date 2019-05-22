@@ -39,9 +39,9 @@ Please work through these <a href ="https://ncar-hackathons.github.io/resources/
 | Time        	| Event                                   	|
 |-------------	|-----------------------------------------	|
 | 9:00-9:15   	| Introduction                            	|
-| 9:15-9:30   	| Getting Started with Python on Cheyenne 	|
-| 9:30-10:00  	| Python Basics                           	|
-| 10:00-10:30 	| Scientific computing in Python I        	|
+| 9:15-9:30   	| [Getting Started with Python on Cheyenne](https://github.com/NCAR/NCAR-pangeo-tutorial) 	|
+| 9:30-10:00  	| [Python Basics](https://ncar-hackathons.github.io/python-general)                           	|
+| 10:00-10:30 	| [Scientific computing in Python I](https://ncar-hackathons.github.io/scientific-computing)        	|
 | 10:30-11:00 	| Break                                   	|
 | 11:00-11:45 	| Scientific computing in Python II       	|
 | 11:45-12:30 	| Visualization I                         	|
