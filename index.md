@@ -1,11 +1,84 @@
 ---
-title: Lorem Ipsum
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida auctor lectus, eget hendrerit risus interdum id. Maecenas metus erat, accumsan sit amet arcu eget, rutrum elementum arcu. Donec ante ipsum, eleifend sed nulla vel, tempus ultricies nibh. Integer placerat in diam a luctus. Duis finibus ipsum a ex elementum ultrices ac mollis erat. Integer vulputate tincidunt mi, id hendrerit sem maximus aliquam. Cras luctus massa et erat ultricies, ut imperdiet est auctor. Maecenas ullamcorper nisi aliquam, ornare ligula eget, rutrum lorem. In ut nunc a tortor molestie aliquet.
 
-Donec eleifend porta mi a posuere. Maecenas vel tellus elit. Nulla egestas erat ut lorem rutrum, eget suscipit turpis consequat. Morbi fringilla ullamcorper sollicitudin. Phasellus pretium, mi vel tempus rutrum, dolor turpis porttitor ante, sit amet ultrices nisl purus a nisl. Nunc velit metus, dignissim eu erat quis, vulputate laoreet mi. Phasellus mollis felis a accumsan molestie. Nam maximus metus nec nibh malesuada, vel dapibus tellus feugiat.
+- [---](#)
+- [3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon](#3-5-june-2019--cgd-cisl-python-tutorial-and-hackathon)
+  - [Location](#location)
+  - [Pre-event preparation](#pre-event-preparation)
+  - [Schedule](#schedule)
+    - [Monday 3 June](#monday-3-june)
+    - [Tuesday 4 June](#tuesday-4-june)
+    - [Wednesday 5 June](#wednesday-5-june)
 
-Nam eu maximus enim. Curabitur eleifend ante ut accumsan pellentesque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras lacus augue, rhoncus ac venenatis vitae, semper id sapien. Suspendisse molestie pellentesque arcu, non semper orci ultricies quis. Ut nisi lorem, hendrerit sed viverra at, venenatis eget metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec leo sapien, viverra in nulla sed, commodo molestie ipsum. Sed eget nunc sit amet tellus elementum dignissim. Curabitur in est posuere, pulvinar dolor sit amet, molestie eros.
+## 3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon
 
-Aenean fringilla vestibulum magna ultrices pellentesque. Ut pretium enim eu leo luctus, at faucibus orci vehicula. Nam nec porttitor sem, vel cursus diam. Pellentesque odio enim, ultrices in ex nec, lacinia lobortis nunc. Pellentesque in massa felis. Proin volutpat ex sodales porttitor tempus. Ut id ipsum eleifend, dictum sapien non, scelerisque tortor. Mauris a pretium massa. Aenean interdum nulla diam, sit amet egestas libero consectetur pellentesque. Vestibulum aliquet pretium nisi. Nam massa libero, gravida quis tincidunt ut, maximus vitae sem. Nullam metus arcu, ultricies quis velit iaculis, tincidunt dictum nisi. Nulla ultrices efficitur nibh, non sollicitudin massa elementum eu. In id mollis metus, id interdum mauris. Nunc convallis, sem ac maximus vestibulum, orci magna ullamcorper tellus, sed rutrum lectus mauris vel metus. Cras cursus molestie pulvinar.
+The objectives:
+
+- Spin up on Python as an analysis tool (zero to 60)
+- Work through example analyses, from number crunching to visualization
+- Understand Python package design
+- Gain familiarity with git workflow and package development
+- Tackle a collaborative coding project
+- Something else you think is missing?
+
+The format of this event will include instructional lectures as well as open-ended project time. The expectation is that participants will work collaboratively on projects of personal interest.
+
+### Location
+
+All tutorials and hacking sessions are located at the <a href="https://goo.gl/maps/ikn4LE2VL5yDZMaX6">NCAR Mesa Laboratory</a>.
+
+### Pre-event preparation
+
+Please work through these <a href ="https://ncar-hackathons.github.io/resources/"> educational resources </a> in advance of tutorial and hackathon!
+
+### Schedule
+
+#### Monday 3 June
+| Time        	| Event                                   	|
+|-------------	|-----------------------------------------	|
+| 9:00-9:15   	| Introduction                            	|
+| 9:15-9:30   	| Getting Started with Python on Cheyenne 	|
+| 9:30-10:00  	| Python Basics                           	|
+| 10:00-10:30 	| Scientific computing in Python I        	|
+| 10:30-11:00 	| Break                                   	|
+| 11:00-11:45 	| Scientific computing in Python II       	|
+| 11:45-12:30 	| Visualization I                         	|
+| 12:30-13:30 	| Lunch                                   	|
+| 13:30-14:15 	| Git workflows                           	|
+| 14:15-14:45 	| Project Introduction and pitches        	|
+| 14:45-16:45 	| Project work                            	|
+| 16:45-17:00 	| Wrap up discussion                      	|
+| 17:00       	| Adjourn                                 	|
+
+#### Tuesday 4 June
+
+| Time        	| Event                         	|
+|-------------	|-------------------------------	|
+| 9:00-9:45   	| Scaling up: xarray & dask     	|
+| 9:45-10:30  	| Visualization II              	|
+| 10:30-11:00 	| Break                         	|
+| 11:00-11:30 	| Package management with conda 	|
+| 11:30-12:00 	| Python package anatomy        	|
+| 12:00-12:20 	| Project reports               	|
+| 12:20-13:20 	| Lunch                         	|
+| 13:20-14:20 	| Project work                  	|
+| 14:20-14:35 	| Lunch                         	|
+| 14:35-15:45 	| Project work                  	|
+| 15:45-16:00 	| Roll on down the hill         	|
+| 16:00       	| Happy hour at Under the Sun   	|
+
+#### Wednesday 5 June
+
+| Time        	| Event                	|
+|-------------	|----------------------	|
+| 9:00-9:45   	| Other topics: Pandas 	|
+| 9:45-10:15  	| Data catalogs        	|
+| 10:15-10:35 	| Project reports      	|
+| 10:35-11:35 	| Project work         	|
+| 11:35-13:05 	| Lunch                	|
+| 13:05-14:35 	| Project work         	|
+| 14:35-14:55 	| Break                	|
+| 14:55-16:25 	| Project work         	|
+| 16:25-16:55 	| Wrap up discussion   	|
+| 16:55       	| Adjourn              	|

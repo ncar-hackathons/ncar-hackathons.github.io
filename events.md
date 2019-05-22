@@ -5,7 +5,7 @@ title: Events
 - [3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon](#3-5-june-2019--cgd-cisl-python-tutorial-and-hackathon)
   - [Location](#location)
   - [Pre-event preparation](#pre-event-preparation)
-  - [Schedule (Work In Progress)](#schedule-work-in-progress)
+  - [Schedule](#schedule)
     - [Monday 3 June](#monday-3-june)
     - [Tuesday 4 June](#tuesday-4-june)
     - [Wednesday 5 June](#wednesday-5-june)
@@ -31,47 +31,53 @@ All tutorials and hacking sessions are located at the <a href="https://goo.gl/ma
 
 Please work through these <a href ="https://ncar-hackathons.github.io/resources/"> educational resources </a> in advance of tutorial and hackathon!
 
-### Schedule (Work In Progress)
+### Schedule
 
 #### Monday 3 June
-
-| Time  | Event                                          | Instructors |
-| ----- | ---------------------------------------------- | ----------- |
-| 8:30  | Introduction                                   | Matt Long   |
-| 8:45  | Gettting started with Python on Cheyenne       | Anderson    |
-| 9:00  | Python Basics                                  |             |
-| 9:30  | Python package anatomy                         |             |
-| 10:00 | Break                                          |             |
-| 10:20 | Git and GitHub                                 | Kevin       |
-| 11:05 | Introduction to scientific computing in Python |             |
-| 11:50 | Lunch                                          |             |
-| 12:50 | Introduction to visualization                  |             |
-| 13:35 | Data catalogs                                  |             |
-| 13:55 | Pangeo Demo                                    |             |
-| 14:25 | Project introduction and pitches               |             |
-| 14:55 | Project work                                   |             |
-| 16:55 | Wrap up discussion                             |             |
-| 17:10 | Adjourn                                        |             |
+| Time        	| Event                                   	|
+|-------------	|-----------------------------------------	|
+| 9:00-9:15   	| Introduction                            	|
+| 9:15-9:30   	| Getting Started with Python on Cheyenne 	|
+| 9:30-10:00  	| Python Basics                           	|
+| 10:00-10:30 	| Scientific computing in Python I        	|
+| 10:30-11:00 	| Break                                   	|
+| 11:00-11:45 	| Scientific computing in Python II       	|
+| 11:45-12:30 	| Visualization I                         	|
+| 12:30-13:30 	| Lunch                                   	|
+| 13:30-14:15 	| Git workflows                           	|
+| 14:15-14:45 	| Project Introduction and pitches        	|
+| 14:45-16:45 	| Project work                            	|
+| 16:45-17:00 	| Wrap up discussion                      	|
+| 17:00       	| Adjourn                                 	|
 
 #### Tuesday 4 June
 
-| Time  | Event                               | Instructors |
-| ----- | ----------------------------------- | ----------- |
-| 8:30  | Xarray/Dask                         |             |
-| 9:15  | intake-esm, esmlab                  | Anderson    |
-| 9:45  |                                     |             |
-| 9:45  | Notebooks for reproducibele science | Matt Long   |
-| 9:45  |                                     |             |
-| 9:45  |                                     |             |
-| 9:45  |                                     |             |
-|       |                                     |             |
-| 16:00 | Happy hour at Under the Sun         |             |
-|       |                                     |             |
-|       |                                     |             |
+| Time        	| Event                         	|
+|-------------	|-------------------------------	|
+| 9:00-9:45   	| Scaling up: xarray & dask     	|
+| 9:45-10:30  	| Visualization II              	|
+| 10:30-11:00 	| Break                         	|
+| 11:00-11:30 	| Package management with conda 	|
+| 11:30-12:00 	| Python package anatomy        	|
+| 12:00-12:20 	| Project reports               	|
+| 12:20-13:20 	| Lunch                         	|
+| 13:20-14:20 	| Project work                  	|
+| 14:20-14:35 	| Lunch                         	|
+| 14:35-15:45 	| Project work                  	|
+| 15:45-16:00 	| Roll on down the hill         	|
+| 16:00       	| Happy hour at Under the Sun   	|
 
 #### Wednesday 5 June
 
-| Time | Event       | Instructors |
-| ---- | ----------- | ----------- |
-| 8:30 | Xarray/Dask |             |
-| 9:15 | Pandas,     | Anderson    |
+| Time        	| Event                	|
+|-------------	|----------------------	|
+| 9:00-9:45   	| Other topics: Pandas 	|
+| 9:45-10:15  	| Data catalogs        	|
+| 10:15-10:35 	| Project reports      	|
+| 10:35-11:35 	| Project work         	|
+| 11:35-13:05 	| Lunch                	|
+| 13:05-14:35 	| Project work         	|
+| 14:35-14:55 	| Break                	|
+| 14:55-16:25 	| Project work         	|
+| 16:25-16:55 	| Wrap up discussion   	|
+| 16:55       	| Adjourn              	|
