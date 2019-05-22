@@ -34,6 +34,8 @@ Please work through these <a href ="https://ncar-hackathons.github.io/resources/
 ### Schedule
 
 #### Monday 3 June
+
+
 | Time        	| Event                                   	|
 |-------------	|-----------------------------------------	|
 | 9:00-9:15   	| Introduction                            	|

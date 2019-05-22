@@ -2,16 +2,15 @@
 ---
 
 
-- [---](#)
 - [3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon](#3-5-june-2019--cgd-cisl-python-tutorial-and-hackathon)
-  - [Location](#location)
-  - [Pre-event preparation](#pre-event-preparation)
-  - [Schedule](#schedule)
-    - [Monday 3 June](#monday-3-june)
-    - [Tuesday 4 June](#tuesday-4-june)
-    - [Wednesday 5 June](#wednesday-5-june)
+    - [Location](#location)
+    - [Pre-event preparation](#pre-event-preparation)
+    - [Schedule](#schedule)
+      - [Monday 3 June](#monday-3-june)
+      - [Tuesday 4 June](#tuesday-4-june)
+      - [Wednesday 5 June](#wednesday-5-june)
 
-## 3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon
+# 3-5 June, 2019 : CGD-CISL Python Tutorial and Hackathon
 
 The objectives:
 
@@ -35,6 +34,7 @@ Please work through these <a href ="https://ncar-hackathons.github.io/resources/
 ### Schedule
 
 #### Monday 3 June
+
 | Time        	| Event                                   	|
 |-------------	|-----------------------------------------	|
 | 9:00-9:15   	| Introduction                            	|
