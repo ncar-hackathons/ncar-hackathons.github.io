@@ -20,10 +20,10 @@ ncar-hacks-list:
     url: https://ncar-hackathons.github.io/visualization
     website: https://ncar-hackathons.github.io/visualization
     img: /img/plotting.png
-  - name: Git Workflow
+  - name: Git Workflows
     desc: Version Control with Git and GitHub
-    github: https://github.com/ncar-hackathons/git-workflow
-    url: https://ncar-hackathons.github.io/git-workflow
+    github: https://github.com/ncar-hackathons/git-workflows
+    url: https://ncar-hackathons.github.io/git-workflows
     website: https://ncar-hackathons.github.io/git-workflow
     img: https://git-scm.com/images/branching-illustration@2x.png
   - name: Package Managent & Packaging
