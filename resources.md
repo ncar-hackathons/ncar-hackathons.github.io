@@ -24,7 +24,7 @@ ncar-hacks-list:
     desc: Version Control with Git and GitHub
     github: https://github.com/ncar-hackathons/git-workflows
     url: https://ncar-hackathons.github.io/git-workflows
-    website: https://ncar-hackathons.github.io/git-workflow
+    website: https://ncar-hackathons.github.io/git-workflows
     img: https://git-scm.com/images/branching-illustration@2x.png
   - name: Package Managent & Packaging
     desc: Packaging and package management from start to finish for both PyPI and Conda.
