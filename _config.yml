@@ -41,7 +41,7 @@ share-links-active:
 disqus: ""
 
 # Google Analytics ID
-google_analytics: ""
+google_analytics: "UA-138446982-4"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Denver"
