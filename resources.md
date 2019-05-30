@@ -2,6 +2,12 @@
 title: Educational Materials
 bigimg: https://ncar.ucar.edu/sites/default/files/page/2018-04/Labs%20Earth%20space%20banner.jpg
 ncar-hacks-list:
+  - name: Jupyter Lab
+    desc: Jupyter Notebooks and Jupyter Lab
+    github: https://github.com/ncar-hackathons/jupyterlab-tutorial
+    url: https://ncar-hackathons.github.io/jupyterlab-tutorial
+    website: https://ncar-hackathons.github.io/jupyterlab-tutorial
+    img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
   - name: Python General
     desc: Fundamentals of Python programming language.
     github: https://github.com/ncar-hackathons/python-general
