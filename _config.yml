@@ -11,7 +11,6 @@ navbar-links:
   Blog: "blog"
   Projects: "projects"
   Resources: "resources"
-  Events: "events"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
