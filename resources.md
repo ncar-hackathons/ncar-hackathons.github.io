@@ -3,7 +3,7 @@ title: Educational Materials
 bigimg: https://ncar.ucar.edu/sites/default/files/page/2018-04/Labs%20Earth%20space%20banner.jpg
 ncar-hacks-list:
   - name: Jupyter Lab
-    desc: Jupyter Notebooks and Jupyter Lab
+    desc: Jupyter Notebooks and Jupyter Lab.
     github: https://github.com/ncar-hackathons/jupyterlab-tutorial
     url: https://ncar-hackathons.github.io/jupyterlab-tutorial
     website: https://ncar-hackathons.github.io/jupyterlab-tutorial
