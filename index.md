@@ -30,7 +30,13 @@ All tutorials and hacking sessions are located at the <a href="https://goo.gl/ma
 
 ### Pre-event preparation
 
-Please work through these <a href ="https://ncar-hackathons.github.io/resources/"> educational resources </a> in advance of tutorial and hackathon!
+Please consider:
+
+- following the instructions here:
+    https://github.com/NCAR/ncar-pangeo-tutorial to setup your Python environment on Cheyenne prior to the event. 
+
+- working through this [preliminary Python tutorial](https://ncar-hackathons.github.io/python-general/beginners/intro.html) in advance of tutorial and hackathon!
+
 
 ### Schedule
 
@@ -73,7 +79,7 @@ Please work through these <a href ="https://ncar-hackathons.github.io/resources/
 
 | Time        	| Event                	|
 |-------------	|----------------------	|
-| 9:00-9:45   	| Other topics: Pandas 	|
+| 9:00-9:45   	| MetPy 	|
 | 9:45-10:15  	| Data catalogs        	|
 | 10:15-10:35 	| Project reports      	|
 | 10:35-11:35 	| Project work         	|
